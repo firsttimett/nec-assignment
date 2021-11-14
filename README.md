@@ -13,9 +13,9 @@ Big O time complexity: O(n), n is the number of nodes.
 ## Tech used
 
 ```
-1.	Node.js (path and fs)
-2.	TypeScript
-3.	Jest (for unit testing)
+1. Node.js (path and fs)
+2. TypeScript
+3. Jest (for unit testing)
 ```
 
 ## How to use?
